@@ -1,0 +1,14 @@
+
+contents.txt     - this file
+file_id.diz      - file id
+ftscprod.fe      - FTSC products code
+pktview.his      - history
+pktview.cfg      - config file
+pktview.hlp      - help file
+pktview.dos      - PKT/MSG Viewer (DOS version, rename to pktview.exe)
+pktview.os2      - PKT/MSG Viewer/2 (OS/2 version, rename to pktview.exe)
+pktview.exe      - PKT/MSG Viewer/2 (DOS + OS/2 version)
+moonlit.dll      - moonlit.dll (only for OS/2 version)
+lite/pktview.dos - PKT/MSG Viewer Lite (DOS version, rename to pktview.exe)
+lite/pktview.os2 - PKT/MSG Viewer/2 Lite (OS/2 version, rename to pktview.exe)
+                    (don't use up moonlit.dll)
